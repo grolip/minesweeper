@@ -1,0 +1,2 @@
+# minesweeper
+[Hyperskill] learning project
